@@ -1,3 +1,3 @@
 # arsdy
 This is my first project
-Author = Arvaj
+Author = Arvaj khan
